@@ -1,8 +1,4 @@
-# Сжатие Хаффмана
-
-Решение необходимо оформить в файлах `main.cpp`, `huffman.cpp`,
-`huffman.hpp`.
-
+# Huffman Compression
 ```
 Usage:
     ./huffman [-v] OPTION SOURCE DEST
